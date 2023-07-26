@@ -2,15 +2,17 @@ body {
     background-color: #000000;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.header--main {
+  }
+  
+  /* HEADINGS */
+  
+  .header--main {
     font-weight: normal;
     font-size: 50px;
     color: #ffffff;
-}  
-
-.header--secondary {
+  }
+  
+  .header--secondary {
     font-weight: 300;
     font-size: 42px;
     color: #ffffff;
@@ -20,8 +22,18 @@ body {
     font-size: 21px;
     color: grey;
   }
-
-.link--cta {
+  
+  /* LINKS */
+  
+  .link--cta {
     font-size: 16px;
     color: aquamarine;
+  }
+  
+  /* FOOTER */
+  
+  .footer--copyright {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
   }
